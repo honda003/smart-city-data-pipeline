@@ -94,6 +94,7 @@ docker-compose up -d
 - Dcoker file has been built for downloading image and jars needed for Kafka and AWS
 - S3a connector configured for AWS: `fs.s3a.access.key`, `fs.s3a.secret.key`, `fs.s3a.endpoint`, `fs.s3a.connection.ssl.enabled`.
 - Commit protocol: `SQLHadoopMapReduceCommitProtocol` with `directory` committer for Parquet.
+![simulation.png](./media/image.png) 
 
 ### MinIO (Storage Testing)
 - MinIO container for local S3 testing
@@ -239,7 +240,7 @@ GROUP BY deviceId;
 
 - Querying large-scale data efficiently using Athena & Redshift
 
-- End-to-end streaming + batch + cloud integration
+- End-to-end streaming + cloud integration
 
 - Optimized Spark Structured Streaming pipeline with checkpointing
 
