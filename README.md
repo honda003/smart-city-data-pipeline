@@ -24,10 +24,10 @@ Before running the project, make sure to set up your environment and dependencie
 # Create a virtual environment named .venv
 python3 -m venv .venv
 ```
-# Activate the virtual environment
-# Linux/macOS:
+#### Activate the virtual environment
+##### Linux/macOS:
 - source .venv/bin/activate
-# Windows:
+##### Windows:
 - .venv\Scripts\activate
 ### **2️⃣ Install Python Dependencies**
 ```bash
