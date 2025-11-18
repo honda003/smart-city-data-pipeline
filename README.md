@@ -148,6 +148,7 @@ docker-compose up -d
 **Example S3 Paths**:
   - s3a://smart-city-project1/data/vehicle_data
   - s3a://smart-city-project1/checkpoints/vehicle_data
+- To run spark_city.py
 
 ```bash
 docker exec -it spark-master bash
