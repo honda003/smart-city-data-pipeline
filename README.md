@@ -165,12 +165,13 @@ then wait till it runs
 ## ☁️ AWS S3 & Glue Integration
 
 ### **S3 Bucket Structure**
-
-- `data/vehicle_data/`  
-- `data/gps_data/`  
-- `data/traffic_data/`  
-- `data/weather_data/`  
-- `data/emergency_data/`  
+- `checkpoints/`
+- `data/`  
+  - `data/vehicle_data/`  
+  - `data/gps_data/`  
+  - `data/traffic_data/`  
+  - `data/weather_data/`  
+  - `data/emergency_data/`  
 
 ![s3_bucket.png](./media/s3_bucket.png)  
 
