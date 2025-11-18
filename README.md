@@ -135,6 +135,7 @@ docker-compose up -d
 - Incremental lat/lon updates with randomization for realism  
 - JSON messages produced to Kafka with structured schemas  
 - When you run main.py
+  
 ![simulation.png](./media/simulation.png) 
 
 ---
