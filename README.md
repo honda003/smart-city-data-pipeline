@@ -14,6 +14,12 @@
 </div>
 
 ---
+
+## 🏗️ Architecture 🔥
+
+![Architecture](./media/pipeline_architecture.png)
+
+---
 ## 🏁 Getting Started
 
 Before running the project, make sure to set up your environment and dependencies.
@@ -54,12 +60,6 @@ docker-compose up -d
 - MinIO Console: http://localhost:9001
 
 - Spark Master: http://localhost:8180
-
----
-
-## 🏗️ Architecture 🔥
-
-![Architecture](./media/pipeline_architecture.png)
 
 ---
 
