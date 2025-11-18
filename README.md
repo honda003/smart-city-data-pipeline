@@ -59,7 +59,7 @@ docker-compose up -d
 
 ## 🏗️ Architecture 🔥
 
-![Architecture](./images/pipeline_architecture.png)
+![Architecture](./media/pipeline_architecture.png)
 
 ---
 
