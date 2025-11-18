@@ -174,6 +174,7 @@ then wait till it runs
   - `data/emergency_data/`  
 
 ![s3_bucket.png](./media/s3_bucket.png)  
+![data_objects.png](./media/data_objects.png)
 
 ### **Glue Crawlers**
 
@@ -190,7 +191,6 @@ then wait till it runs
 - Schema automatically inferred from Parquet files  
 
 ![data_catalog_tables.png](./media/data_catalog_tables.png)  
-![data_objects.png](./media/data_objects.png)  
 
 ---
 
