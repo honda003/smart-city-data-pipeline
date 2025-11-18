@@ -88,7 +88,7 @@ docker-compose up -d
 ### Apache Spark Cluster
 - **Master**: Custom Spark Dockerfile
 - **Workers**: 2 workers with Jupyter Notebook for testing
-- **Ports**: Spark UI exposed at 8080-8082, Jupyter at 8888
+
 
 **Spark Config Highlights**:
 - Dcoker file has been built for downloading image and jars needed for Kafka and AWS
