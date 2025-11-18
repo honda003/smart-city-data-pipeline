@@ -17,6 +17,10 @@
 ## 🏁 Getting Started
 
 Before running the project, make sure to set up your environment and dependencies.
+```bash
+# moving to the project's folder
+cd to_your_folder_named_smartcity
+```
 
 ### **1️⃣ Create a Python Virtual Environment**
 
@@ -32,7 +36,7 @@ python3 -m venv .venv
 ### **2️⃣ Install Python Dependencies**
 ```bash
 Copy code
-pip install -r requirements.txt
+pip install -r python/requirements.txt
 ```
 ### **3️⃣ Start Docker Services**
 ```bash
