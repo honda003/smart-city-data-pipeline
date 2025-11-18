@@ -66,7 +66,7 @@ docker-compose up -d
 <div align="center">
 
 **🔥 Complete end-to-end real-time data engineering pipeline for smart city vehicle & IoT data 🔥**  
-*🚀 Streaming, batch processing, AWS integration, analytics-ready storage 🌟*
+*🚀 Streaming processing, AWS integration, analytics-ready storage 🌟*
 
 </div>
 
