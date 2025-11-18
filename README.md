@@ -226,7 +226,7 @@ GROUP BY deviceId;
 
 ![redshift_data_loaded.png](./media/redshift_data_loaded.png) 
 
-
+---
 
 ### 🚀 Key Achievements
 
