@@ -20,6 +20,15 @@
 ![Architecture](./media/pipeline_architecture.png)
 
 ---
+
+<div align="center">
+
+**🔥 Complete end-to-end real-time data engineering pipeline for smart city vehicle & IoT data 🔥**  
+*🚀 Streaming processing, AWS integration, analytics-ready storage 🌟*
+
+</div>
+
+---
 ## 🏁 Getting Started
 
 Before running the project, make sure to set up your environment and dependencies.
@@ -60,15 +69,6 @@ docker-compose up -d
 - MinIO Console: http://localhost:9001
 
 - Spark Master: http://localhost:8180
-
----
-
-<div align="center">
-
-**🔥 Complete end-to-end real-time data engineering pipeline for smart city vehicle & IoT data 🔥**  
-*🚀 Streaming processing, AWS integration, analytics-ready storage 🌟*
-
-</div>
 
 ---
 
