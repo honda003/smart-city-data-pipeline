@@ -14,6 +14,44 @@
 </div>
 
 ---
+## 🏁 Getting Started
+
+Before running the project, make sure to set up your environment and dependencies.
+
+### **1️⃣ Create a Python Virtual Environment**
+
+```bash
+# Create a virtual environment named .venv
+python3 -m venv .venv
+```
+# Activate the virtual environment
+# Linux/macOS:
+- source .venv/bin/activate
+# Windows:
+- .venv\Scripts\activate
+### **2️⃣ Install Python Dependencies**
+```bash
+Copy code
+pip install -r requirements.txt
+```
+### **3️⃣ Start Docker Services**
+```bash
+Copy code
+# Make sure Docker is installed and running
+docker-compose up -d
+```
+- This will start all necessary services including Kafka, Spark, Jupyter, MinIO (or S3), and other components of the pipeline.
+
+### **4️⃣ Verify Services**
+- Kafka UI: http://localhost:8090
+
+- Jupyter Notebook: http://localhost:8888
+
+- MinIO Console: http://localhost:9001
+
+- Spark Master: http://localhost:8180
+
+---
 
 ## 🏗️ Architecture 🔥
 
