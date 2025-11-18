@@ -146,8 +146,8 @@ docker-compose up -d
 - Applies schemas for each type of data  
 - Writes streaming data to **S3 buckets** with checkpointing
 **Example S3 Paths**:
-- s3a://smart-city-project1/data/vehicle_data
-- s3a://smart-city-project1/checkpoints/vehicle_data
+-- s3a://smart-city-project1/data/vehicle_data
+-- s3a://smart-city-project1/checkpoints/vehicle_data
 
 ```bash
 docker exec -it spark-master bash
