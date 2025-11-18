@@ -87,7 +87,7 @@ docker-compose up -d
 
 ### Apache Spark Cluster
 - **Master**: Custom Spark Dockerfile
-- **Workers**: 2 workers with Jupyter Notebook for testing
+- **Workers**: 2 workers
 
 
 **Spark Config Highlights**:
