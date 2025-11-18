@@ -218,7 +218,7 @@ GROUP BY deviceId;
 - Used Vs code Database extension to connect to Redshift
 ![redshift_connection.png](./media/redshift_connection.png)
 **Note: Make sure that Redshift got the needed polices, accessed publicily and your Redshift's subnet is allowing your IP as an inbound rule**
-![redshift_policies.png](./media/redshift_plicies.png)
+![redshift_policies.png](./media/redshift_polices.png)
 
 
 - Connected Redshift to AWS Glue Data Catalog 
