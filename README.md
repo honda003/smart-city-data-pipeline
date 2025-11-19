@@ -158,7 +158,7 @@ then after entering the container
 ```bash
 spark-submit python/spark_city.py
 ```
-then wait till it runs
+then wait till the streaming starts
 ![simulation.png](./media/image.png) 
 
 ---
